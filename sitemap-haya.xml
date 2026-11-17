@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Submitted to Google Search Console only; deliberately not referenced in robots.txt.
+     The 14 Haya pages that stay open to Google (center pages and card guides carry a
+     googlebot-only noindex). Bing reads the full list at https://haya.merrowa.com/sitemap.xml. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://haya.merrowa.com/</loc><lastmod>2026-08-05</lastmod></url>
+  <url><loc>https://haya.merrowa.com/faq.html</loc><lastmod>2026-08-05</lastmod></url>
+  <url><loc>https://haya.merrowa.com/about.html</loc><lastmod>2026-08-05</lastmod></url>
+  <url><loc>https://haya.merrowa.com/locations/index.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/api/index.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/guides/index.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/guides/global-entry-conditionally-approved-next-steps.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/guides/global-entry-enrollment-on-arrival.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/guides/global-entry-for-children.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/guides/global-entry-interview-checklist.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/guides/global-entry-vs-tsa-precheck-vs-nexus.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/guides/global-entry-tsa-gateside.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/guides/best-global-entry-appointment-alert-services.html</loc><lastmod>2026-11-16</lastmod></url>
+  <url><loc>https://haya.merrowa.com/wait-times.html</loc><lastmod>2026-11-16</lastmod></url>
+</urlset>
